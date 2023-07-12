@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [File Server](https://fileserver-production-1d5f.up.railway.app/)
 
-- 🌱 I’m currently learning **Spring, Springboot**
+- 🌱 I’m also currently learning **Spring, Springboot**
 
 - 👯 I’m looking to collaborate on **projects**
 
