@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephenamuah&label=Profile%20views&color=0e75b6&style=flat" alt="stephenamuah" /> </p>
 
-- 🔭 I’m currently working on [File Server](https://fileserver-production-1d5f.up.railway.app/)
+- I’m currently working on [File Server](https://fileserver-production-1d5f.up.railway.app/)
 
 - 🌱 I’m also currently learning **Spring, Springboot**
-
-- 👯 I’m looking to collaborate on **projects**
-
-- 🤝 I’m seeking to understand and implement **spring security**
 
 - 📫 How to reach me **stephenaamuah@gmail.com**
 
